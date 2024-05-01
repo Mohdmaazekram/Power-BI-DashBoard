@@ -1,15 +1,25 @@
-# Power-BI-DashBoard
+# Global COVID-19 Dashboard: Tracking Cases, Deaths, and Recoveries Worldwide
 
-In This Project I Have Created GLobal_Covid-19 DashBoard & 
-I Analyze the covid19 Confirmed, Death, Cured Cases in Globaly .
-Where I found that the most of the Cases were arisen in US, 
-Brazil, India, Russia , Mexico and Other Country.
+The Dashboard tracks COVID-19 statistics around the world. 
 
-This DashBoard is Created By Following Below Steps:
- * Step 1: Scraping the Data From Website.
- * Step 2: Data Gathering.
- * Step 3: Data Cleaning / Data Transformating.
- * Step 4: Loading Data into Power-BI Tool.
- * Step 6: Using Different Charts & Graphs To Visualize the Data.
- * Step 7: Using Year Column as Filter So We Can Saw Easly Filter Year Wise Data.
- * Step 7: Last Step Create DashBoard.
+The dashboard shows the following information:
+
+> Confirmed cases by country
+> Deaths by region
+> Recovered cases by country
+> New recovered cases by country
+> Active cases by country
+> New death cases by country
+> New cases by country
+
+The data is presented in a variety of formats, including tables, charts, and maps. The dashboard also includes a timeline that shows how the pandemic has progressed over time.
+
+It is important to note that the data on this dashboard may not be up-to-date, as many countries have stopped reporting COVID-19 statistics.
+
+Here are some specific details:
+
+* Confirmed cases by country: India has the most confirmed cases (13 billion), followed by the United States (10 billion) and Brazil (9 billion).
+* Deaths by region: The unspecified region labeled "Un" has the most deaths (1 billion), followed by Europe (67 billion) and Asia (47 billion).
+* Recovered cases by country: India also has the most recovered cases (32.69%), followed by Brazil (25.92%) and the United States (17.08%).
+  
+Overall, the dashboard provides a comprehensive overview of the COVID-19 pandemic around the world. However, it is important to be aware of the limitations of the data.
