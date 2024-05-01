@@ -4,13 +4,13 @@ The Dashboard tracks COVID-19 statistics around the world.
 
 The dashboard shows the following information:
 
-> Confirmed cases by country
-> Deaths by region
-> Recovered cases by country
-> New recovered cases by country
-> Active cases by country
-> New death cases by country
-> New cases by country
+> Confirmed cases by country\
+> Deaths by region\
+> Recovered cases by country\
+> New recovered cases by country\
+> Active cases by country\
+> New death cases by country\
+> New cases by country\
 
 The data is presented in a variety of formats, including tables, charts, and maps. The dashboard also includes a timeline that shows how the pandemic has progressed over time.
 
